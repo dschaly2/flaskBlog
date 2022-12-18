@@ -1,4 +1,4 @@
-#!/home/drew/Documents/Programming/Python/flaskBlog/venv/bin/python3
+!/home/drew/Documents/Programming/Python/flaskBlog/flaskBlog/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
